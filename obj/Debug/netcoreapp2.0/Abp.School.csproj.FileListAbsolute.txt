@@ -1,0 +1,4 @@
+G:\GitHub\Abp.School\obj\Debug\netcoreapp2.0\Abp.School.csprojResolveAssemblyReference.cache
+G:\GitHub\Abp.School\obj\Debug\netcoreapp2.0\Abp.School.csproj.CoreCompileInputs.cache
+G:\GitHub\Abp.School\obj\Debug\netcoreapp2.0\Abp.School.AssemblyInfoInputs.cache
+G:\GitHub\Abp.School\obj\Debug\netcoreapp2.0\Abp.School.AssemblyInfo.cs

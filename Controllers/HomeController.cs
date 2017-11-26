@@ -4,7 +4,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Abp.School.Models;
+using Abp.School.Application.ViewModels;
 
 namespace Abp.School.Controllers
 {

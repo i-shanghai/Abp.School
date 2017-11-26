@@ -1,6 +1,7 @@
 ﻿using Abp.School.Application.ViewModels;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -11,6 +12,7 @@ namespace Abp.School.Core.Models
     /// </summary>
     public class Enrollment
     {
+        [DatabaseGenerated(DatabaseGeneratedOption.None)]
         public int EnrollmentId { get; set; }
 
         public int StudentId { get; set; }
